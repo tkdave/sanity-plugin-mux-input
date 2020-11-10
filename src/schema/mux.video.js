@@ -3,7 +3,7 @@ import Preview from '../components/Preview'
 
 export default {
   name: 'mux.video',
-  type: 'object',
+  type: 'document',
   title: 'Video asset reference',
   fields: [
     {
